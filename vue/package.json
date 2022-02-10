@@ -27,7 +27,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "lint-staged": "^9.5.0",
-    "node-sass": "^4.5.0",
+    "node-sass": "^7.0.0",
     "stylus": "^0.54.7",
     "less": "^3.11.3",
     "stylus-loader": "^3.0.2",
